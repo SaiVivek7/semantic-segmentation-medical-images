@@ -1,2 +1,2 @@
-# clinical_images
-this repo contains the medical images project, of 3-2 which we are currently working on.
+# Semantic Segmentation of Medical Images
+This contains the code for semantic segmentation of cardic images to identify left artery using Encoder Decoder model and UNet model.
